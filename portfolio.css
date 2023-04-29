@@ -1,0 +1,157 @@
+body{
+	margin: 10px;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.main{
+	background-color: rgba(34, 204, 0, 0.616);
+	height: 400px;
+	padding: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.image{
+	background-color: rgb(5, 0, 15);
+	margin: 15px;
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+}
+.one{
+	color: rgb(10, 1, 1);
+	font-size: 40px;
+	margin: 10px;
+}
+.two{
+	color: rgb(155, 2, 79);
+	font-size: 30px;
+}
+.about{
+	padding: 49px;
+	justify-content: center;
+	align-items: center;
+	height: 400px;
+	background-color: rgb(245, 220, 220);
+}
+.ab1{
+	font-size: 32px;
+	margin: 15px;
+}
+.ab2{
+	font-size: 30px;
+}
+.abdiv{
+	display: flex;
+}
+.quote{
+	height: 250px;
+	width: 250px;
+	margin: 25px;
+}
+.education{
+	background-color: rgb(250, 248, 248);
+	height: 450px;
+	padding-top: 15px;
+	padding-right: 41px;
+	padding-bottom: 39px;
+	padding-left: 42px;
+	display: flex;
+	/*background-image: linear-gradient(to right, white , pink);*/
+}
+.inedu{
+	display: flex;
+
+	/*justify-content: center;
+	align-items: center;*/
+	align-items:center;
+}
+.inedup{
+	font-size: 40px;
+}
+.ineduimg{
+	margin: 86px;
+	/*border-radius: 40%;*/
+	background-image: linear-gradient(to right, rgb(26, 18, 18) , rgb(163, 117, 125));
+}
+.lists li{
+	display: inline-block;
+	margin: 20px;
+}
+.skills{
+	background-color: rgb(166, 153, 194);
+	padding: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.one1{
+	font-size: 20px;
+}
+.two2{
+	font-size: 45px;
+}
+.space{
+	margin: 95px;
+}
+.skills ul{
+	display: inline-block;
+}
+.other-p{
+	font-size: 20px;
+}
+.projects{
+	padding: 55px;
+	color: rgb(26, 17, 21);
+}
+.pro1{
+	font-size: 25px;
+	color: rgb(8, 1, 5);
+}
+.pro2{
+	font-size: 45px;
+	color: rgb(12, 12, 12);
+}
+.projects li{
+	display: inline-block;
+	font-size: 23px;
+	color: rgb(63, 30, 47);
+	margin: 30px;
+}
+.end{
+	background-color: rgb(196, 168, 173);
+	color: rgb(15, 15, 15);
+	padding: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.okati{
+	margin: 60px;
+}
+.okati1{
+	font-size: 46px;
+}
+.okati2{
+	font-size: 26px;
+}
+.okati3,.okati4{
+	font-size: 20px;
+}
+.rendu1{
+	font-size: 37px;
+}
+.name,.email,.thoughts,.button{
+	margin: 7px;
+}
+.button{
+	padding: 10px;
+	background-color: beige;
+	border-radius: 7px;
+	border-style: none;
+}
